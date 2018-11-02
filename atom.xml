@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://dengshaochun.github.io/"/>
   <updated>2018-11-02T02:46:57.260Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://dengshaochun.github.io/</id>
   
   <author>
     <name>dengshaochun</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo + githug-pages 搭建博客完全教程</title>
-    <link href="http://yoursite.com/2018/11/01/build-personal-blog-use-hexo-and-github-pages/"/>
-    <id>http://yoursite.com/2018/11/01/build-personal-blog-use-hexo-and-github-pages/</id>
+    <link href="https://dengshaochun.github.io/2018/11/01/build-personal-blog-use-hexo-and-github-pages/"/>
+    <id>https://dengshaochun.github.io/2018/11/01/build-personal-blog-use-hexo-and-github-pages/</id>
     <published>2018-11-01T11:51:54.000Z</published>
     <updated>2018-11-02T02:46:57.260Z</updated>
     
@@ -34,19 +34,19 @@
     
     </summary>
     
-      <category term="Hexo" scheme="http://yoursite.com/categories/Hexo/"/>
+      <category term="Hexo" scheme="https://dengshaochun.github.io/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://dengshaochun.github.io/tags/Hexo/"/>
     
-      <category term="github-pages" scheme="http://yoursite.com/tags/github-pages/"/>
+      <category term="github-pages" scheme="https://dengshaochun.github.io/tags/github-pages/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/11/01/hello-world/"/>
-    <id>http://yoursite.com/2018/11/01/hello-world/</id>
+    <link href="https://dengshaochun.github.io/2018/11/01/hello-world/"/>
+    <id>https://dengshaochun.github.io/2018/11/01/hello-world/</id>
     <published>2018-11-01T01:58:54.906Z</published>
     <updated>2018-11-01T01:58:54.907Z</updated>
     
